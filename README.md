@@ -1,4 +1,5 @@
-[![codejanovic/teamcity-agent-go](https://img.shields.io/docker/pulls/codejanovic/teamcity-agent-go.svg)](https://hub.docker.com/r/codejanovic/teamcity-agent-go/)
+![Docker Pulls](https://img.shields.io/docker/pulls/jmeyer42/teamcity-agent-go.svg)
+
 # teamcity-agent-go
 Teamcity Docker Build Agent for Golang. Based on the [teamcity-minimal-agent](https://hub.docker.com/r/jetbrains/teamcity-minimal-agent/) image from Jetbrains.
 
