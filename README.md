@@ -5,7 +5,7 @@ Teamcity Docker Build Agent for Golang. Based on the [teamcity-minimal-agent](ht
 
 ## Run with `docker run`
 ```
-docker run -d --name="container_name" -e AGENT_NAME="agent_name" -e SERVER_URL="https://your.teamcity.com" codejanovic/teamcity-agent-go:latest
+docker run -d --name="container_name" -e AGENT_NAME="agent_name" -e SERVER_URL="https://your.teamcity.com" jmeyer42/teamcity-agent-go:latest
 ```
 
 ## Run with docker-compose
