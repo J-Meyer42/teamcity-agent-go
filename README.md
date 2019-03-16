@@ -13,7 +13,7 @@ Within your `docker-compose.yml` file create a new service:
 ```docker
  teamcity-agent1:
     container_name: teamcity-agent1
-    image: codejanovic/teamcity-agent-go:latest
+    image: jmeyer42/teamcity-agent-go:latest
     expose:
       - 9090     
     environment:
