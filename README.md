@@ -1,5 +1,3 @@
-![Docker Pulls](https://img.shields.io/docker/pulls/jmeyer42/teamcity-agent-go.svg)
-
 [![jmeyer42/teamcity-agent-go](https://img.shields.io/docker/pulls/jmeyer42/teamcity-agent-go.svg)](https://hub.docker.com/r/jmeyer42/teamcity-agent-go/)
 
 # teamcity-agent-go
